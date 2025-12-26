@@ -64,7 +64,7 @@ This project implements a **secure, production-grade Over-The-Air (OTA) firmware
 
 ### 4. Start the Server
     python server.py
-Open the Serial Monitor to watch the ESP8266 detect, decrypt, and install the update.
+Reset the ESP8266 and watch the Serial Monitor for the decryption and update progress.
 
 ---
 
