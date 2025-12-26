@@ -1,7 +1,5 @@
-# Secure AES-128 OTA Update System for ESP8266
-
-This project implements a **secure, production-grade Over-The-Air (OTA) firmware update mechanism** for the **ESP8266**.  
-It mitigates common OTA security risks by integrating **AES-128 encryption** for confidentiality and **SHA-256 hashing** for integrity verification.
+## Secure AES-128 OTA Update System for ESP8266
+This project implements a **secure, production-grade Over-The-Air (OTA) firmware update mechanism** for the **ESP8266**. It mitigates common OTA security risks by integrating **AES-128 encryption** for confidentiality and **SHA-256 hashing** for integrity verification.
 
 ---
 
